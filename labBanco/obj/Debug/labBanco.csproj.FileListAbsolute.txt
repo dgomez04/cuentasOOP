@@ -1,0 +1,8 @@
+C:\Users\dagom\OneDrive\ULACIT\IV CUATRI\DESARROLLO DE APLICACIONES\Semana VII\labBanco\bin\Debug\labBanco.exe.config
+C:\Users\dagom\OneDrive\ULACIT\IV CUATRI\DESARROLLO DE APLICACIONES\Semana VII\labBanco\bin\Debug\labBanco.exe
+C:\Users\dagom\OneDrive\ULACIT\IV CUATRI\DESARROLLO DE APLICACIONES\Semana VII\labBanco\bin\Debug\labBanco.pdb
+C:\Users\dagom\OneDrive\ULACIT\IV CUATRI\DESARROLLO DE APLICACIONES\Semana VII\labBanco\obj\Debug\labBanco.csproj.AssemblyReference.cache
+C:\Users\dagom\OneDrive\ULACIT\IV CUATRI\DESARROLLO DE APLICACIONES\Semana VII\labBanco\obj\Debug\labBanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\dagom\OneDrive\ULACIT\IV CUATRI\DESARROLLO DE APLICACIONES\Semana VII\labBanco\obj\Debug\labBanco.csproj.CoreCompileInputs.cache
+C:\Users\dagom\OneDrive\ULACIT\IV CUATRI\DESARROLLO DE APLICACIONES\Semana VII\labBanco\obj\Debug\labBanco.exe
+C:\Users\dagom\OneDrive\ULACIT\IV CUATRI\DESARROLLO DE APLICACIONES\Semana VII\labBanco\obj\Debug\labBanco.pdb
